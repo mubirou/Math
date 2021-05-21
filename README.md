@@ -16,7 +16,8 @@
 
 
 ## 002
-<a href="https://www.codecogs.com/eqnedit.php?latex=x^{4}&plus;4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^{4}&plus;4" title="x^{4}+4" /></a> を因数分解せよ。
+<a href="https://www.codecogs.com/eqnedit.php?latex=x^{4}&plus;4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^{4}&plus;4" title="x^{4}+4" /></a> を因数分解せよ。  
+（'06 中京大）
 
 （解答）  
 
