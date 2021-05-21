@@ -1,7 +1,5 @@
 # Math
 
-数式は https://www.codecogs.com/latex/eqneditor.php を利用。
-
 ## 003
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" title="\left ( x-4 \right )\left ( x-2 \right )\left ( x+1 \right )\left ( x+3 \right )+24" /></a> を因数分解せよ。（'06 東洋大）
 
@@ -16,7 +14,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}-x-6&space;\right&space;)\left&space;(&space;x^{2}-x-8&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}-x-6&space;\right&space;)\left&space;(&space;x^{2}-x-8&space;\right&space;)" title="=\left ( x^{2}-x-6 \right )\left ( x^{2}-x-8 \right )" /></a>  
 
 作成者：夢寐郎  
-作成日：2021年05月23日  
+作成日：2021年05月22日  
 
 
 ## 002
@@ -31,7 +29,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;2x&plus;2&space;\right&space;)\left&space;(&space;x^{2}-2x&plus;2&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;2x&plus;2&space;\right&space;)\left&space;(&space;x^{2}-2x&plus;2&space;\right&space;)" title="=\left ( x^{2}+2x+2 \right )\left ( x^{2}-2x+2 \right )" /></a>  
 
 作成者：夢寐郎  
-作成日：2021年05月23日  
+作成日：2021年05月22日  
 
 
 ## 001
@@ -47,3 +45,5 @@
 
 作成者：夢寐郎  
 作成日：2021年05月22日  
+#
+数式は https://www.codecogs.com/latex/eqneditor.php を利用。
