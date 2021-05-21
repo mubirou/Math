@@ -21,4 +21,5 @@
 
 （解答）  
 
-<a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&space;\right&space;)^{2}&plus;2^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&space;\right&space;)^{2}&plus;2^{2}" title="=\left ( x^{2} \right )^{2}+2^{2}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&space;\right&space;)^{2}&plus;2^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&space;\right&space;)^{2}&plus;2^{2}" title="=\left ( x^{2} \right )^{2}+2^{2}" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;2&space;\right&space;)^{2}-4x^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;2&space;\right&space;)^{2}-4x^{2}" title="=\left ( x^{2}+2 \right )^{2}-4x^{2}" /></a>
