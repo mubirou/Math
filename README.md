@@ -46,4 +46,4 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;x&plus;3&space;\right&space;)\left&space;(&space;x^{2}-x&plus;3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;x&plus;3&space;\right&space;)\left&space;(&space;x^{2}-x&plus;3&space;\right&space;)" title="=\left ( x^{2}+x+3 \right )\left ( x^{2}-x+3 \right )" /></a>  
 
 作成者：夢寐郎  
-作成日：2021年05月23日  
+作成日：2021年05月22日  
