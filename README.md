@@ -28,6 +28,14 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=-3x\leq&space;14" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-3x\leq&space;14" title="-3x\leq 14" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=x\geq&space;-\frac{14}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x\geq&space;-\frac{14}{3}" title="x\geq -\frac{14}{3}" /></a>  
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=-\frac{14}{3}<&space;-\frac{4}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-\frac{14}{3}<&space;-\frac{4}{3}" title="-\frac{14}{3}< -\frac{4}{3}" /></a>  
+なので…
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=x\geq&space;-\frac{4}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x\geq&space;-\frac{4}{3}" title="x\geq -\frac{4}{3}" /></a>  
+
+
+作成者：夢寐郎  
+作成日：2021年05月22日  
 
 
 ## 004
