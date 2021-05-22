@@ -23,7 +23,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;\{&space;\left&space;(&space;x^{2}-x&space;\right&space;)-2&space;\right&space;\}\left&space;\{&space;\left&space;(&space;x^{2}-x&space;\right&space;)-12&space;\right&space;\}&plus;24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;\{&space;\left&space;(&space;x^{2}-x&space;\right&space;)-2&space;\right&space;\}\left&space;\{&space;\left&space;(&space;x^{2}-x&space;\right&space;)-12&space;\right&space;\}&plus;24" title="=\left \{ \left ( x^{2}-x \right )-2 \right \}\left \{ \left ( x^{2}-x \right )-12 \right \}+24" /></a>  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;x&plus;a&space;\right&space;)\left&space;(&space;x&plus;b\right&space;)=x^{2}&plus;\left&space;(&space;a&plus;b&space;\right&space;)x&plus;ab" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;x&plus;a&space;\right&space;)\left&space;(&space;x&plus;b\right&space;)=x^{2}&plus;\left&space;(&space;a&plus;b&space;\right&space;)x&plus;ab" title="\left ( x+a \right )\left ( x+b\right )=x^{2}+\left ( a+b \right )x+ab" /></a>  
-なので…  
+だから…  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;\{&space;\left&space;(&space;x^{2}-x&space;\right&space;)^{2}-14\left&space;(&space;x^{2}-x&space;\right&space;)&plus;24&space;\right&space;\}&plus;24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;\{&space;\left&space;(&space;x^{2}-x&space;\right&space;)^{2}-14\left&space;(&space;x^{2}-x&space;\right&space;)&plus;24&space;\right&space;\}&plus;24" title="=\left \{ \left ( x^{2}-x \right )^{2}-14\left ( x^{2}-x \right )+24 \right \}+24" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}-x&space;\right&space;)^{2}-14\left&space;(&space;x^{2}-x&space;\right&space;)^{2}&plus;48" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}-x&space;\right&space;)^{2}-14\left&space;(&space;x^{2}-x&space;\right&space;)^{2}&plus;48" title="=\left ( x^{2}-x \right )^{2}-14\left ( x^{2}-x \right )^{2}+48" /></a>  
@@ -42,13 +42,13 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&space;\right&space;)^{2}&plus;2^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&space;\right&space;)^{2}&plus;2^{2}" title="=\left ( x^{2} \right )^{2}+2^{2}" /></a>  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^{2}&plus;2ab&plus;b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^{2}&plus;2ab&plus;b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)^{2}" title="a^{2}+2ab+b^{2}=\left ( a+b \right )^{2}" /></a>  
-なので…  
+だから…  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;2&space;\right&space;)^{2}-4x^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;2&space;\right&space;)^{2}-4x^{2}" title="=\left ( x^{2}+2 \right )^{2}-4x^{2}" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;2&space;\right&space;)^{2}-\left&space;(&space;2x&space;\right&space;)^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;2&space;\right&space;)^{2}-\left&space;(&space;2x&space;\right&space;)^{2}" title="=\left ( x^{2}+2 \right )^{2}-\left ( 2x \right )^{2}" /></a>  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^{2}-b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)\left&space;(&space;a-b&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^{2}-b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)\left&space;(&space;a-b&space;\right&space;)" title="a^{2}-b^{2}=\left ( a+b \right )\left ( a-b \right )" /></a>  
-なので…  
+だから…  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;\{&space;\left&space;(&space;x^{2}&plus;2&space;\right&space;)&plus;2x&space;\right&space;\}\left&space;\{&space;\left&space;(&space;x^{2}&plus;2&space;\right&space;)-2x&space;\right&space;\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;\{&space;\left&space;(&space;x^{2}&plus;2&space;\right&space;)&plus;2x&space;\right&space;\}\left&space;\{&space;\left&space;(&space;x^{2}&plus;2&space;\right&space;)-2x&space;\right&space;\}" title="=\left \{ \left ( x^{2}+2 \right )+2x \right \}\left \{ \left ( x^{2}+2 \right )-2x \right \}" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;2x&plus;2&space;\right&space;)\left&space;(&space;x^{2}-2x&plus;2&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;2x&plus;2&space;\right&space;)\left&space;(&space;x^{2}-2x&plus;2&space;\right&space;)" title="=\left ( x^{2}+2x+2 \right )\left ( x^{2}-2x+2 \right )" /></a>  
@@ -65,13 +65,13 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==(x^{2}&space;)^{2}&space;&plus;5x^{2}&space;&plus;&space;3^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=(x^{2}&space;)^{2}&space;&plus;5x^{2}&space;&plus;&space;3^{2}" title="=(x^{2} )^{2} +5x^{2} + 3^{2}" /></a>  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^{2}&plus;2ab&plus;b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^{2}&plus;2ab&plus;b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)^{2}" title="a^{2}+2ab+b^{2}=\left ( a+b \right )^{2}" /></a>  
-なので…  
+だから…  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;\{&space;(x^{2}&space;)^{2}&space;&plus;6x^{2}&space;&plus;&space;3^{2}&space;\right&space;\}-x^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;\{&space;(x^{2}&space;)^{2}&space;&plus;6x^{2}&space;&plus;&space;3^{2}&space;\right&space;\}-x^{2}" title="=\left \{ (x^{2} )^{2} +6x^{2} + 3^{2} \right \}-x^{2}" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;3&space;\right&space;)^{2}-x^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;3&space;\right&space;)^{2}-x^{2}" title="=\left ( x^{2}+3 \right )^{2}-x^{2}" /></a>  
  
 <a href="https://www.codecogs.com/eqnedit.php?latex=a^{2}-b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)\left&space;(&space;a-b&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a^{2}-b^{2}=\left&space;(&space;a&plus;b&space;\right&space;)\left&space;(&space;a-b&space;\right&space;)" title="a^{2}-b^{2}=\left ( a+b \right )\left ( a-b \right )" /></a>  
-なので…  
+だから…  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;\{&space;\left&space;(&space;x^{2}&space;&plus;3\right&space;)&plus;x&space;\right&space;\}\left&space;\{&space;\left&space;(&space;x^{2}&plus;3&space;\right&space;)-x&space;\right&space;\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;\{&space;\left&space;(&space;x^{2}&space;&plus;3\right&space;)&plus;x&space;\right&space;\}\left&space;\{&space;\left&space;(&space;x^{2}&plus;3&space;\right&space;)-x&space;\right&space;\}" title="=\left \{ \left ( x^{2} +3\right )+x \right \}\left \{ \left ( x^{2}+3 \right )-x \right \}" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;x&plus;3&space;\right&space;)\left&space;(&space;x^{2}-x&plus;3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;x&plus;3&space;\right&space;)\left&space;(&space;x^{2}-x&plus;3&space;\right&space;)" title="=\left ( x^{2}+x+3 \right )\left ( x^{2}-x+3 \right )" /></a>  
