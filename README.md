@@ -19,7 +19,7 @@
 作成者：夢寐郎  
 作成日：2021年05月22日  
 
-## 003
+## 003 因数分解
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" title="\left ( x-4 \right )\left ( x-2 \right )\left ( x+1 \right )\left ( x+3 \right )+24" /></a> を因数分解せよ。（'06 東洋大）
 
 （解答）  
@@ -43,7 +43,7 @@
 作成日：2021年05月21日  
 
 
-## 002
+## 002 因数分解
 <a href="https://www.codecogs.com/eqnedit.php?latex=x^{4}&plus;4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^{4}&plus;4" title="x^{4}+4" /></a> を因数分解せよ。（'06 中京大）
 
 （解答）  
@@ -66,7 +66,7 @@
 作成日：2021年05月21日  
 
 
-## 001
+## 001 因数分解
 <a href="https://www.codecogs.com/eqnedit.php?latex=x^{4}&plus;5x^{2}&plus;9" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^{4}&plus;5x^{2}&plus;9" title="x^{4}+5x^{2}+9" /></a> を因数分解せよ。（'03年 静岡理工科大）
 
 （解答）  
