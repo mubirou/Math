@@ -1,7 +1,7 @@
 # Math
 答えは正しいかどうかわかりませんw
 
-### 005
+## 005
 【問題】（'92 拓殖大）  
 不等式  
 <a href="https://www.codecogs.com/eqnedit.php?latex=-1\leq&space;\frac{2x&plus;1}{x&plus;3}\leq&space;5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-1\leq&space;\frac{2x&plus;1}{x&plus;3}\leq&space;5" title="-1\leq \frac{2x+1}{x+3}\leq 5" /></a>  
