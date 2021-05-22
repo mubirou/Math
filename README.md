@@ -7,8 +7,14 @@
 を解け。
 
 【解答】  
-<a href="https://www.codecogs.com/eqnedit.php?latex=-1\leq&space;\frac{2x&plus;1}{x&plus;3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-1\leq&space;\frac{2x&plus;1}{x&plus;3}" title="-1\leq \frac{2x+1}{x+3}" /></a>……①  
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2x&plus;1}{x&plus;3}\leq&space;5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2x&plus;1}{x&plus;3}\leq&space;5" title="\frac{2x+1}{x+3}\leq 5" /></a>……②  
+<a href="https://www.codecogs.com/eqnedit.php?latex=-1\leq&space;\frac{2x&plus;1}{x&plus;3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-1\leq&space;\frac{2x&plus;1}{x&plus;3}" title="-1\leq \frac{2x+1}{x+3}" /></a>…①  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2x&plus;1}{x&plus;3}\leq&space;5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2x&plus;1}{x&plus;3}\leq&space;5" title="\frac{2x+1}{x+3}\leq 5" /></a>…②  
+
+①②の連立不等式と同様に求める。  
+
+①は…
+<a href="https://www.codecogs.com/eqnedit.php?latex=-(x&plus;3)\leq&space;2x&plus;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-(x&plus;3)\leq&space;2x&plus;1" title="-(x+3)\leq 2x+1" /></a>  
+
 
 
 ## 004
