@@ -5,6 +5,8 @@
 
 （解答）  
 <a href="https://www.codecogs.com/eqnedit.php?latex==2x^{2}&plus;3xy-(2y^{2}-5y&plus;2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=2x^{2}&plus;3xy-(2y^{2}-5y&plus;2)" title="=2x^{2}+3xy-(2y^{2}-5y+2)" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex==2x^{2}&plus;3xy-(2y-1)(y-2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=2x^{2}&plus;3xy-(2y-1)(y-2)" title="=2x^{2}+3xy-(2y-1)(y-2)" /></a>　　
+
 
 ## 003
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" title="\left ( x-4 \right )\left ( x-2 \right )\left ( x+1 \right )\left ( x+3 \right )+24" /></a> を因数分解せよ。（'06 東洋大）
