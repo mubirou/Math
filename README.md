@@ -7,7 +7,7 @@
 を解け。
 
 【解答】  
-①<a href="https://www.codecogs.com/eqnedit.php?latex=-1\leq&space;\frac{2x&plus;1}{x&plus;3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-1\leq&space;\frac{2x&plus;1}{x&plus;3}" title="-1\leq \frac{2x+1}{x+3}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=-1\leq&space;\frac{2x&plus;1}{x&plus;3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-1\leq&space;\frac{2x&plus;1}{x&plus;3}" title="-1\leq \frac{2x+1}{x+3}" /></a>…①
 
 
 ## 004
