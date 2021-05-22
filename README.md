@@ -13,6 +13,7 @@
 ①②の連立不等式と同様に求める。  
 
 ①は…  
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=-(x&plus;3)\leq&space;2x&plus;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-(x&plus;3)\leq&space;2x&plus;1" title="-(x+3)\leq 2x+1" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=-x-3\leq&space;2x&plus;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-x-3\leq&space;2x&plus;1" title="-x-3\leq 2x+1" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=-3x\leq&space;4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-3x\leq&space;4" title="-3x\leq 4" /></a>  
@@ -21,6 +22,9 @@
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x&space;\geq&space;-\frac{4}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;\geq&space;-\frac{4}{3}" title="x \geq -\frac{4}{3}" /></a>  
 
+②は…  
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=2x&plus;1\leq&space;5\left&space;(&space;x&plus;3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2x&plus;1\leq&space;5\left&space;(&space;x&plus;3&space;\right&space;)" title="2x+1\leq 5\left ( x+3 \right )" /></a>  
 
 
 ## 004
