@@ -24,6 +24,8 @@
 ②は…  
 <a href="https://www.codecogs.com/eqnedit.php?latex=2x&plus;1\leq&space;5\left&space;(&space;x&plus;3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2x&plus;1\leq&space;5\left&space;(&space;x&plus;3&space;\right&space;)" title="2x+1\leq 5\left ( x+3 \right )" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=2x&plus;1\leq&space;5x&plus;15" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2x&plus;1\leq&space;5x&plus;15" title="2x+1\leq 5x+15" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex=2x-5x\leq&space;15-1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2x-5x\leq&space;15-1" title="2x-5x\leq 15-1" /></a>  
+
 
 
 ## 004
