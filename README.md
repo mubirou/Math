@@ -12,7 +12,7 @@
 
 ①②の連立不等式と同様に求める。  
 
-①は…
+①は…  
 <a href="https://www.codecogs.com/eqnedit.php?latex=-(x&plus;3)\leq&space;2x&plus;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-(x&plus;3)\leq&space;2x&plus;1" title="-(x+3)\leq 2x+1" /></a>  
 
 
