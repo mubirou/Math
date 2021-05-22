@@ -8,7 +8,10 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==2x^{2}&plus;3xy-(2y-1)(y-2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=2x^{2}&plus;3xy-(2y-1)(y-2)" title="=2x^{2}+3xy-(2y-1)(y-2)" /></a>　　
 <a href="https://www.codecogs.com/eqnedit.php?latex==2x^{2}&plus;3yx-(2y-1)(y-2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=2x^{2}&plus;3yx-(2y-1)(y-2)" title="=2x^{2}+3yx-(2y-1)(y-2)" /></a>　　
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;\{&space;x&plus;\left&space;(&space;2y-1&space;\right&space;)&space;\right&space;\}\left&space;\{&space;2x-\left&space;(&space;y-2&space;\right&space;)&space;\right&space;\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;\{&space;x&plus;\left&space;(&space;2y-1&space;\right&space;)&space;\right&space;\}\left&space;\{&space;2x-\left&space;(&space;y-2&space;\right&space;)&space;\right&space;\}" title="=\left \{ x+\left ( 2y-1 \right ) \right \}\left \{ 2x-\left ( y-2 \right ) \right \}" /></a>  
+<a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x&plus;2y-1&space;\right&space;)\left&space;(&space;2x-y&plus;2&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x&plus;2y-1&space;\right&space;)\left&space;(&space;2x-y&plus;2&space;\right&space;)" title="=\left ( x+2y-1 \right )\left ( 2x-y+2 \right )" /></a>  
 
+作成者：夢寐郎  
+作成日：2021年05月22日  
 
 ## 003
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" title="\left ( x-4 \right )\left ( x-2 \right )\left ( x+1 \right )\left ( x+3 \right )+24" /></a> を因数分解せよ。（'06 東洋大）
@@ -24,7 +27,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}-x-6&space;\right&space;)\left&space;(&space;x^{2}-x-8&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}-x-6&space;\right&space;)\left&space;(&space;x^{2}-x-8&space;\right&space;)" title="=\left ( x^{2}-x-6 \right )\left ( x^{2}-x-8 \right )" /></a>  
 
 作成者：夢寐郎  
-作成日：2021年05月22日  
+作成日：2021年05月21日  
 
 
 ## 002
@@ -39,7 +42,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;2x&plus;2&space;\right&space;)\left&space;(&space;x^{2}-2x&plus;2&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;2x&plus;2&space;\right&space;)\left&space;(&space;x^{2}-2x&plus;2&space;\right&space;)" title="=\left ( x^{2}+2x+2 \right )\left ( x^{2}-2x+2 \right )" /></a>  
 
 作成者：夢寐郎  
-作成日：2021年05月22日  
+作成日：2021年05月21日  
 
 
 ## 001
@@ -54,6 +57,6 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex==\left&space;(&space;x^{2}&plus;x&plus;3&space;\right&space;)\left&space;(&space;x^{2}-x&plus;3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=\left&space;(&space;x^{2}&plus;x&plus;3&space;\right&space;)\left&space;(&space;x^{2}-x&plus;3&space;\right&space;)" title="=\left ( x^{2}+x+3 \right )\left ( x^{2}-x+3 \right )" /></a>  
 
 作成者：夢寐郎  
-作成日：2021年05月22日  
+作成日：2021年05月21日  
 #
 数式は https://www.codecogs.com/latex/eqneditor.php を利用。
