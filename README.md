@@ -1,6 +1,6 @@
 # Math
 
-## 004 因数分解
+## 004
 <a href="https://www.codecogs.com/eqnedit.php?latex=2x^{2}&plus;3xy-2y^{2}&plus;5y-2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2x^{2}&plus;3xy-2y^{2}&plus;5y-2" title="2x^{2}+3xy-2y^{2}+5y-2" /></a> を因数分解すると[イ]である。（'11 京都産業大）
 
 （解答）  
@@ -19,7 +19,7 @@
 作成者：夢寐郎  
 作成日：2021年05月22日  
 
-## 003 因数分解
+## 003
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;x-4&space;\right&space;)\left&space;(&space;x-2&space;\right&space;)\left&space;(&space;x&plus;1&space;\right&space;)\left&space;(&space;x&plus;3&space;\right&space;)&plus;24" title="\left ( x-4 \right )\left ( x-2 \right )\left ( x+1 \right )\left ( x+3 \right )+24" /></a> を因数分解せよ。（'06 東洋大）
 
 （解答）  
@@ -43,7 +43,7 @@
 作成日：2021年05月21日  
 
 
-## 002 因数分解
+## 002
 <a href="https://www.codecogs.com/eqnedit.php?latex=x^{4}&plus;4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^{4}&plus;4" title="x^{4}+4" /></a> を因数分解せよ。（'06 中京大）
 
 （解答）  
@@ -66,7 +66,7 @@
 作成日：2021年05月21日  
 
 
-## 001 因数分解
+## 001
 <a href="https://www.codecogs.com/eqnedit.php?latex=x^{4}&plus;5x^{2}&plus;9" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^{4}&plus;5x^{2}&plus;9" title="x^{4}+5x^{2}+9" /></a> を因数分解せよ。（'03年 静岡理工科大）
 
 （解答）  
